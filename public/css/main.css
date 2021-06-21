@@ -31,3 +31,6 @@ h1{
     line-height: 1.4 !important;
     min-height: 0vw !important;
 }
+.cube{
+    height: 40vh;
+}
