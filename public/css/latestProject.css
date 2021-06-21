@@ -10,7 +10,7 @@
 #latestProject header h3{
     margin: 0 !important;
 }
-#latestProject header a{
+#latestProject header a,.GreennToWhite{
     border: 1px solid green;
     background: green;
     color: #fff;
