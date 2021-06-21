@@ -3,14 +3,32 @@
     width: 100%;
     background:#F7F1E4;
 }
-#hero h1{
-    margin-top: 20% !important;
+#hero header h3{
+    margin-top: 15% !important;
     font-family: normal normal normal 100px/1.4em questrial,sans-serif;
     width: 100% !important;
     text-align: center;
     line-height: 1;
     font-weight: 100;
     min-height: 0vw;
+}
+#hero header p{
+    padding: 6%;
+}
+#hero header a{
+    border: 1px solid green;
+    background: green;
+    padding: 3% 8%;
+    color: #fff;
+
+    /* margin-top: 23% !important; */
+    border-radius: 50px;
+    transition: background 0.1s;
+    transition-delay: color 1s;
+}
+#hero header a:hover{
+    background:transparent !important;
+    color: green;
 }
 #hero main{
     background: url('https://static.wixstatic.com/media/84770f_4b6fd82dfb9045a0994eed24366ba98a~mv2.png/v1/crop/x_0,y_132,w_2307,h_1393/fill/w_1583,h_956,fp_0.50_0.50,q_90,usm_0.66_1.00_0.01/84770f_4b6fd82dfb9045a0994eed24366ba98a~mv2.webp');
@@ -23,6 +41,9 @@
     width: 100%;
     background:#F7F1E4;
 }
+#hero footer h3{
+    padding: 0 0 6% 0;
+}
 #hero footer a{
     border: 1px solid green;
     color: green;
@@ -34,9 +55,5 @@
 }
 #hero footer a:hover{
     background: green;
-    color: ivory;
-   
-
-
-    
+    color: ivory;    
 }
