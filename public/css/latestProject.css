@@ -1,0 +1,28 @@
+#latestProject{
+    background: #B9DACA;
+    width: 100%;
+    height: 100%;
+    padding: 3rem 0 0 0;
+}
+#latestProject header p{
+    padding: 5rem 0;
+}
+#latestProject header h3{
+    margin: 0 !important;
+}
+#latestProject header a{
+    border: 1px solid green;
+    background: green;
+    color: #fff;
+    padding: 0.9rem 1.4rem;
+    border-radius: 50px;
+    transition: background 0.1s;
+    transition-delay: color 1s;
+}
+#latestProject header a:hover{
+    background:transparent !important;
+    color: green;
+}
+#latestProject main{
+    margin: 0 !important;
+}

@@ -3,6 +3,7 @@
 @import url('./nav.css');
 @import url('./hero.css');
 @import url('../materialize/css/materialize.min.css');
+@import url('./latestProject.css');
 *{
     margin: 0;
     padding: 0;

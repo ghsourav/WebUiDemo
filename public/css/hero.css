@@ -1,11 +1,10 @@
 #hero{
-    height: 60vh;
+    height: 100%;
     width: 100%;
     background:#F7F1E4;
 }
 #hero header h3{
     margin-top: 15% !important;
-    font-family: normal normal normal 100px/1.4em questrial,sans-serif;
     width: 100% !important;
     text-align: center;
     line-height: 1;
@@ -20,8 +19,6 @@
     background: green;
     padding: 3% 8%;
     color: #fff;
-
-    /* margin-top: 23% !important; */
     border-radius: 50px;
     transition: background 0.1s;
     transition-delay: color 1s;
@@ -38,6 +35,7 @@
 }
 #hero footer{
     height: 40vh;
+    margin: 0 ;
     width: 100%;
     background:#F7F1E4;
 }
