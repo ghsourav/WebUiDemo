@@ -6,6 +6,7 @@
 @import url('../materialize/css/materialize.min.css');
 @import url('./latestProject.css');
 @import url('./Testimonials.css');
+@import url('./footer.css');
 *{
     margin: 0;
     padding: 0;
