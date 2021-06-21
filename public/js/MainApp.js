@@ -1,9 +1,9 @@
 $(document).ready(function () {
   $('.sidenav').sidenav();
-
-  ScrollReveal().reveal('#hero footer', { delay: 100 });
+  ScrollReveal().reveal('.brown-text',{delay:400});
 
 });
+
 
 window.sr = ScrollReveal();
 
@@ -34,3 +34,10 @@ sr.reveal('.animate-bottom', {
   distance: '25rem',
   delay: 600
 });
+sr.reveal('.animate-bottom-1400', {
+  origin: 'bottom',
+  duration: 1400,
+  distance: '25rem',
+  delay: 700
+});
+
