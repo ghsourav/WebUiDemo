@@ -14,8 +14,12 @@
 }
 #hero main{
     background: url('https://static.wixstatic.com/media/84770f_4b6fd82dfb9045a0994eed24366ba98a~mv2.png/v1/crop/x_0,y_132,w_2307,h_1393/fill/w_1583,h_956,fp_0.50_0.50,q_90,usm_0.66_1.00_0.01/84770f_4b6fd82dfb9045a0994eed24366ba98a~mv2.webp');
-    height: 100%;
     width: 100%;
+    height: 60rem;
     background-repeat: no-repeat;
-    background-size:cover;
+}
+#hero footer{
+    height: 40vh;
+    width: 100%;
+    background:#F7F1E4;
 }
