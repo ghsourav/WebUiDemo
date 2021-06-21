@@ -13,3 +13,12 @@ h1{
     line-height: 100%;
     margin: 0 !important;
 }
+.maincolour{
+    background: #F7F1E4;
+}
+.cus1-button{
+    border: 1px solid green;
+    border-radius: 10% 5%;
+    list-style:none;
+    padding: 0 !important;
+}
